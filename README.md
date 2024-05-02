@@ -1,0 +1,2 @@
+# SIMPLIA_ASSIGNMENT
+AI-Promt Assigment
